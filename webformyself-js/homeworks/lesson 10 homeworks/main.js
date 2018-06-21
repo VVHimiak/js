@@ -4,6 +4,7 @@
 var hour, min, sec;
 
 var el = document.getElementById('clock');
+var el2 = document.getElementById('rand');
 
 function getClock() {
     hour = new Date().getHours();
@@ -21,4 +22,8 @@ function getClock() {
     el.innerText = `${hour} : ${min} : ${sec}`;
 }
 setInterval(getClock, 1000);
+setInterval(getRand, 1000);
 
+function getRand() {
+    el2.innerText = `${Math.floor(Math.random()*100)}`;
+}
