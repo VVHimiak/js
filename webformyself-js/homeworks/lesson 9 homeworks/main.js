@@ -22,7 +22,7 @@ function returnMax() {
     for(var i = 0; i < arguments.length; i++) {
         arr[i] = arguments[i];
     }
-    var nR = arr.sort(
+    /*var nR = arr.sort(
         function(a,b) {
            if(a > b) {
                return 1;
@@ -30,13 +30,17 @@ function returnMax() {
            if(a < b) {
                return -1;
            }
-           if(a = b) {
+           if(a === b) {
                return 0;
            }
         }
     );
     //return nR[nR.length - 1];
-    return nR;
+    return nR;*/
+
+    //or
+
+    return Math.max(...arr);
 }
 
 document.write(returnMax(56,69,234,60,45,45));
