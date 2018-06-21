@@ -34,9 +34,6 @@ function doCount(from,to) {
     }
     if(!isNaN(from) && !isNaN(to) && from >= 0 && to >=1 && isFinite(from) && isFinite(to)) {
 
-        console.log(from);
-        console.log(to);
-
         for(var i = from; i < to; i++) {
             line = document.createElement("tr");
             line.classList.add("tr" + i);
