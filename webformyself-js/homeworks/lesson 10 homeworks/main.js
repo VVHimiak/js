@@ -10,10 +10,10 @@ function getClock() {
     min = new Date().getMinutes();
     sec = new Date().getSeconds();
     if(hour < 10) {
-        sec = '0' + sec;
+        hour = '0' + hour;
     }
     if(min < 10) {
-        sec = '0' + sec;
+        min = '0' + min;
     }
     if(sec < 10) {
         sec = '0' + sec;
