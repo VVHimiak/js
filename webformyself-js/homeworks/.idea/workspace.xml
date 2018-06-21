@@ -15,15 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson 9 homeworks/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/lesson 10 homeworks/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson 9 homeworks/main.js">
+        <entry file="file://$PROJECT_DIR$/lesson 10 homeworks/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -51,6 +55,8 @@
         <option value="$PROJECT_DIR$/lesson 8 homeworks/index.html" />
         <option value="$PROJECT_DIR$/lesson 8 homeworks/main.js" />
         <option value="$PROJECT_DIR$/lesson 9 homeworks/main.js" />
+        <option value="$PROJECT_DIR$/lesson 10 homeworks/index.html" />
+        <option value="$PROJECT_DIR$/lesson 10 homeworks/main.js" />
       </list>
     </option>
   </component>
@@ -84,27 +90,7 @@
             <path>
               <item name="homeworks" type="b2602c69:ProjectViewProjectNode" />
               <item name="homeworks" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeworks" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson 5 homeworks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeworks" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson 7 homeworks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeworks" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson 8 homeworks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeworks" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson 9 homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson 10 homeworks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,12 +131,12 @@
       <updated>1529415321279</updated>
       <workItem from="1529415328455" duration="782000" />
       <workItem from="1529499853880" duration="17924000" />
-      <workItem from="1529568427913" duration="5689000" />
+      <workItem from="1529568427913" duration="7954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24395000" />
+    <option name="totallyTimeSpent" value="26660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -252,13 +238,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson 9 homeworks/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson 9 homeworks/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson 9 homeworks/main.js">
+    <entry file="file://$PROJECT_DIR$/lesson 10 homeworks/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson 10 homeworks/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

@@ -35,8 +35,8 @@ function returnMax() {
            }
         }
     );
-    return nR[nR.length - 1];
-    //return nR;
+    //return nR[nR.length - 1];
+    return nR;
 }
 
-document.write(returnMax(56,69,234,60,45));
+document.write(returnMax(56,69,234,60,45,45));

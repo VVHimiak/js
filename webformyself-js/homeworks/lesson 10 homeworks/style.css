@@ -1,0 +1,21 @@
+
+#table {
+    margin: 25px auto;
+}
+
+#table tr td:nth-child(1) {
+    background-color: red;
+}
+#table tr:nth-child(1) {
+    background-color: blue;
+}
+#table td {
+    text-align: center;
+    padding: 5px 7px;
+}
+.result {
+    background: aqua;
+}
+/* #table tr:nth-child(even) {
+  background-color: blue;
+} */
